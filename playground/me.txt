@@ -1,5 +1,0 @@
-{{#user}}
-Name: Dhruv Rawat
-Skills: HTML, CSS, JS, REST API, NodeJS, Data Structures & Algorithms
-Email: dhruvrawat54@gmail.com
-{{/user}}
